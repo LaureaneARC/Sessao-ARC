@@ -1,6 +1,6 @@
 #include <Arduino.h>
 int botao = 3;
-int rele = 2;
+int rele = 4;
 
 void setup() {
   pinMode(botao, INPUT);
